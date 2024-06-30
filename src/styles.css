@@ -42,7 +42,7 @@ section img.background {
 }
 
 .portfolio-section {
-  background-color: "peach"; /* This sets the background to peach */
+  background-color: "skyblue"; /* This sets the background to peach */
 }
 
 h1 {
@@ -59,7 +59,7 @@ h2 {
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
-  color: white;
+  color: rgb(97, 213, 222);
 }
 
 h3 {
