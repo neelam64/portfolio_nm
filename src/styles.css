@@ -42,7 +42,7 @@ section img.background {
 }
 
 .portfolio-section {
-  background-color: #fcf4e3; /* This sets the background to peach */
+  background-color: "peach"; /* This sets the background to peach */
 }
 
 h1 {
