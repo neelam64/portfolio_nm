@@ -24,19 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Final year student studying at MKSSS Cummins College of Engineering for Women , Pune. I enjoy coding , creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "MySQL",
+  "JavaScript",
+  "Python",
+  "ML",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a quick learner and a team player. I am always ready to learn new things and explore new technologies. I am passionate about coding and creating unique and simplistic user interfaces in creative ways. I am always ready to take up new challenges and work on them. I am a quick learner and a team player. I am always ready to learn new things and explore new technologies. I am passionate about coding and creating unique and simplistic user interfaces in creative ways. I am always ready to take up new challenges and work on them. I am a quick learner and a team player. I am always ready to learn new things and explore new technologies. I am passionate about coding and creating unique and simplistic user interfaces in creative ways. I am always ready to take up new challenges and work on them.";
 
 const About = () => {
   return (
