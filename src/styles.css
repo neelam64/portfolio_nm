@@ -41,9 +41,8 @@ section img.background {
   z-index: -1;
 }
 
-/* Add this rule to change the background color of the portfolio section */
 .portfolio-section {
-  background-color: peachpuff; /* This sets the background to peach */
+  background-color: #fcf4e3; /* This sets the background to peach */
 }
 
 h1 {
